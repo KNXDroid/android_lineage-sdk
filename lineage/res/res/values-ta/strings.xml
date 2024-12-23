@@ -5,7 +5,7 @@
      SPDX-License-Identifier: Apache-2.0
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-    <string name="lineageos_system_label">LineageOS அமைப்பு</string>
+    <string name="lineageos_system_label">KNXDroid அமைப்பு</string>
     <string name="permlab_modifyProfiles">கணினி சுயவிவரங்களை மாற்றியமை.</string>
     <string name="permdesc_modifyProfiles">ஒரு பயன்பாடானது கணினி சுயவிவரங்களை மாற்றியமைக்க அனுமதிக்கிறது.</string>
     <string name="permlab_useHardwareFramework">வன்பொருள் கட்டமைப்பைப் பயன்படுத்து</string>

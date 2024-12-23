@@ -5,14 +5,14 @@
      SPDX-License-Identifier: Apache-2.0
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-    <string name="lineageos_system_label">LineageOS kerfi</string>
+    <string name="lineageos_system_label">KNXDroid kerfi</string>
     <string name="permlab_modifyProfiles">breyta kerfissniðum</string>
     <string name="permdesc_modifyProfiles">Gerir forriti kleift að breyta kerfissniðum.</string>
     <string name="permlab_useHardwareFramework">fá aðgang að vélbúnaðarkerfum</string>
     <string name="permdesc_useHardwareFramework">Gerir forriti kleift að fá aðgang að vélbúnaðarkerfum LineageOS.</string>
-    <string name="permlab_writeSettings">breyta kerfisstillingum LineageOS</string>
+    <string name="permlab_writeSettings">breyta kerfisstillingum KNXDroid</string>
     <string name="permdesc_writeSettings">Gerir forriti kleift að breyta kerfisstillingum LineageOS.</string>
-    <string name="permlab_writeSecureSettings">breyta öruggum kerfisstillingum LineageOS</string>
+    <string name="permlab_writeSecureSettings">breyta öruggum kerfisstillingum KNXDroid</string>
     <string name="permdesc_writeSecureSettings">Gerir forriti kleift að breyta öryggisstillingum LineageOS. Notist ekki af venjulegum forritum.</string>
     <string name="profileNameDefault">Sjálfgefið</string>
     <string name="profileNameWork">Vinna</string>

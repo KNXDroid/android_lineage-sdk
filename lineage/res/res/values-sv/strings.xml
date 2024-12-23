@@ -5,7 +5,7 @@
      SPDX-License-Identifier: Apache-2.0
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-    <string name="lineageos_system_label">LineageOS-systemet</string>
+    <string name="lineageos_system_label">KNXDroid-systemet</string>
     <string name="permlab_modifyProfiles">ändra systemprofiler</string>
     <string name="permdesc_modifyProfiles">Tillåter att en app ändrar systemprofiler.</string>
     <string name="permlab_useHardwareFramework">använda hårdvaruramverk</string>
@@ -52,7 +52,7 @@
     <string name="permlab_manageRemotePrefs">hantera fjärrinställningar</string>
     <string name="permdesc_manageRemotePrefs">Tillåter en app att hantera fjärrinställningar</string>
     <string name="build_date">Kompileringsdatum</string>
-    <string name="lineage_api_level">API-nivå för LineageOS</string>
+    <string name="lineage_api_level">API-nivå för KNXDroid</string>
     <string name="lineage_updates">LineageOS-uppdateringar</string>
     <string name="lineage_version">LineageOS-version</string>
     <string name="lineage_vendor_security_patch">Säkerhetsprogramvaruversion</string>
