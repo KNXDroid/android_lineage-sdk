@@ -296,7 +296,7 @@ public final class LineageBatteryLights {
                     UserHandle.USER_CURRENT);
             mBatteryReallyFullARGB = LineageSettings.System.getIntForUser(resolver,
                     LineageSettings.System.BATTERY_LIGHT_REALLY_FULL_COLOR, res.getInteger(
-                    com.android.internal.R.integer.config_notificationsBatteryReallyFullARGB),
+                    0xFF00FF00),
                     UserHandle.USER_CURRENT);
 
             // Adjustable battery LED brightness.
